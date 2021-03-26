@@ -75,7 +75,7 @@ For both headlines and tweets, the random forest algorithm outperformed the mult
 The random forest model achieved 97.4% accuracy when modeling with 3 topics and 97.3% accuracy when modeling with 5 topics.
 
 ![random_forest_espn3](images/random_forest_vanilla_conf_matrix.png)
-![random_forest_espn5](images/random_forest_vanilla_five_classes_conf_matrix.png)
+![random_forest_espn5](images/random_forest_five_classes_conf_matrix.png)
 
 
 ### Tweets
