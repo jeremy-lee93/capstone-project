@@ -101,4 +101,4 @@ Free agency and the NBA Draft were common topics found across both sets of data.
 - Creating a recommendation engine that can recommend past articles for the headlines data
 - Creating a recommendation engine that can recommend topics or accounts to follow through an app
 - Comparing/contrasting sentiment of NBA discourse and seeing how it may affect team/player performance
-- Collecting data from more sources to ensure models are robust
+- Collecting data from more sources to ensure models are robust 
