@@ -83,7 +83,7 @@ The random forest model achieved 97.4% accuracy when modeling with 3 topics and 
 The random forest model achieved 99.2% accuracy when modeling with 4 topics and 99.1% accuracy when modeling with 5 topics.
 
 ![random_forest_tweets4](images/tweets_random_forest_conf_matrix_4_classes.png)
-![random_forest_tweets5](images/tweets_random_forest_conf_matrix_5_classes.png)
+![random_forest_tweets5](images/tweets_random_forest_conf_matrix_5_classes.png) 
 
 # Conclusion
 For both sets of data, it is best to take a top down approach when determining the subject and number of topics. Model performance does slightly suffer with an increased number of classes, so it's best to start big and then go small as necessary. This will help also prevent us from having too few samples in a class when building and training a model.
